@@ -1,3 +1,8 @@
+![image](https://github.com/Sammy192/desafioDSMovie_restAssured/assets/53224915/d6337b3e-81b1-471f-baf4-1ad7e43ff1ed)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+
 # Desafio
 Você deve implementar todos os testes de API conforme solicitado
 
