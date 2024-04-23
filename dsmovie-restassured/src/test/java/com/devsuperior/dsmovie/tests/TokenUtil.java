@@ -9,7 +9,7 @@ import io.restassured.response.Response;
 
 public class TokenUtil {
 
-	public static String obtainAccessToken(String username, String password) throws JSONException {
+	public static String obtainAccessToken(String username, String password) {
 		Response response = authRequest(username, password);
 		JsonPath jsonBody = response.jsonPath();
 		return jsonBody.getString("access_token");
